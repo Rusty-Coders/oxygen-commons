@@ -1,1 +1,1 @@
-This repository will hold the s3 grepping tool.
+This repository will hold the source files for this common project.
